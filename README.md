@@ -1,5 +1,7 @@
 # Skyscanner API Challenge
 
+[![Join the chat at https://gitter.im/mcelearr/skyscannerAPI](https://badges.gitter.im/mcelearr/skyscannerAPI.svg)](https://gitter.im/mcelearr/skyscannerAPI?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 ## The Challenge
 http://en.business.skyscanner.net/buildwithskyscanner
 
